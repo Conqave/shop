@@ -1,0 +1,10 @@
+body{
+    background-image: url("../images/turkish_carpet.jpg");
+    background-size: 100px;
+    background-repeat: repeat;
+}
+
+.logo_image{
+    height: 20px;
+    margin: 10px;
+}
